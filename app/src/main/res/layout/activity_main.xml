@@ -30,7 +30,7 @@
         app:srcCompat="@android:drawable/btn_star_big_on" />
 
     <ScrollView
-        android:id="@+id/bio_scroll"
+        android:id="@+id/Scrolling"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
